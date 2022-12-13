@@ -1,0 +1,17 @@
+.animal-show {
+  max-width: 150px;
+  position: relative;
+  border: 1px solid lightgrey;
+}
+
+.animal-show .img-animal {
+  width: 100%;
+  max-width: 100%;
+  padding: 20px;
+}
+
+.animal-show .img-heart {
+  position: absolute;
+  left: 0px;
+  bottom: 0;
+}
